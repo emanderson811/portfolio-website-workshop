@@ -23,7 +23,9 @@ Her current research includes *Computers Reading Cookbooks*, a collections-as-da
 
 
 
+## Recent Posts
 
+{% include blog-reel.html %}
 
 
 
