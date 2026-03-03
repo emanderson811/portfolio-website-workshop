@@ -9,11 +9,11 @@
 #######
 # SITE SETTINGS
 #
-title: Academic Portfolio Template
-description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
+title: Olivia's Academic Portfolio
+description: My professional site
 year: 2026
-author: ISU Cyclone
-bio:
+author: Olivia Wikle
+bio: "Olivia is a librarian at Iowa State University"
 
 # PERSONAL URLS
 image: /assets/img/emoji-cool.png
