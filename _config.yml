@@ -12,16 +12,16 @@
 title: Erin's Demo Portfolio Website
 description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
 year: 2026
-author: emanderson811
+author: Erin Ridnour
 bio: A digital scholarship librarian at Iowa State University
 
 # PERSONAL URLS
-image: /assets/img/emoji-cool.png
-email:
-github_profile:
-department:
+image: /assets/img/Ridnour_Erin.png
+email: emanders@iastate.edu
+github_profile: https://github.com/emanderson811
+department: digital.lib.iastate.edu
 orcid:
-cv:
+cv: /assets/demo-resume.pdf
 
 # PAGE METADATA SETTINGS [optional!]
 # organization-name: 
