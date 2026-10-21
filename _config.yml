@@ -69,7 +69,7 @@ bootswatch: cyborg
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#F7F7F7"
 link-color: "#0d6efd"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
